@@ -1,0 +1,6 @@
+{
+  "codex_memory": {
+    "enabled": true,
+    "history_token_budget": 20000
+  }
+}
